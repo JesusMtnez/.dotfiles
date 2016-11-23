@@ -1,4 +1,4 @@
-# JesusMtnez's dotfiles! [![Build Status](https://travis-ci.org/JesusMtnez/.dotfiles.svg?branch=master)](https://travis-ci.org/JesusMtnez/.dotfiles) #
+# JesusMtnez's dotfiles! [![Travis CI](https://travis-ci.org/JesusMtnez/.dotfiles.svg?branch=master)](https://travis-ci.org/JesusMtnez/.dotfiles) [![GitLab CI](https://gitlab.com/JesusMtnez/dotfiles/badges/master/build.svg)](https://gitlab.com/JesusMtnez/dotfiles/commits/master) #
 
 ## Installation ##
 
