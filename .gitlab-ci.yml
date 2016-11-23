@@ -1,0 +1,4 @@
+emacs/syntax-check:
+  script:
+    - echo "Checking emacs.d syntax"
+
